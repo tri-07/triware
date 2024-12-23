@@ -7,7 +7,7 @@ import React from 'react'
           <nav className="navbar">
             <div className="navbar-logo">HubSpot</div>
             <ul className="navbar-menu">
-              <li><a href="#">Marketing</a></li>
+              <li><a href="#">Product</a></li>
               <li><a href="#">Sales</a></li>
               <li><a href="#">Service</a></li>
               <li><a href="#">CMS</a></li>
